@@ -18,7 +18,7 @@
 
 ## Donate :
 
-BTC : `16T5cF4xww6wixUDf2QGpn1mY2YspGnSoJ` 
-DOGE : `DJ56cvSg1SPKCZuWApPGEHktqEgaqSW8RB` 
-LTC : `LUFd2QXPm2BR5yWnWUbm8wSWVv9YcxPtuQ` 
-ETH : `0xddda0a7be613e344acd473594c4727db2adde69b` 
+BTC : `16T5cF4xww6wixUDf2QGpn1mY2YspGnSoJ`<br>
+DOGE : `DJ56cvSg1SPKCZuWApPGEHktqEgaqSW8RB`<br>
+LTC : `LUFd2QXPm2BR5yWnWUbm8wSWVv9YcxPtuQ`<br>
+ETH : `0xddda0a7be613e344acd473594c4727db2adde69b`
