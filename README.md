@@ -21,7 +21,7 @@ Example : `/tip amount currency` ( reply this to any other users message whom yo
 Example : `/bal`
 
 #### All these commands are only to be used in groups / supergroups
-<br><br><br>
+<br>
 ## [+] Installation
 
 1. `git clone https://github.com/Tulasinathreddy/Multi-TipBot.git`
