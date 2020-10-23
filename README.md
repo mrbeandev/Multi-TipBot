@@ -4,6 +4,7 @@
 
 ## About :
 
+### > This bot supports BTC,LTC and DOGE
 ### List Of Available Commands And Usage :
 
 #### Command : `/rain`
