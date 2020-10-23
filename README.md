@@ -22,6 +22,7 @@ Example : `/bal`
 
 #### All these commands are only to be used in groups / supergroups
 <br>
+
 ## [+] Installation
 
 1. `git clone https://github.com/Tulasinathreddy/Multi-TipBot.git`
