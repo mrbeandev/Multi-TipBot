@@ -1,5 +1,5 @@
 # Multi-TipBot
-
+<img src="https://raw.githubusercontent.com/Tulasinathreddy/Multi-TipBot/main/logo.png?token=AIIFDDRU3NX5I6MUSKNXJB27SKUEI">
 ## Installation
 
 1. `git clone https://github.com/Tulasinathreddy/Multi-TipBot.git`
