@@ -7,21 +7,21 @@
 ### List Of Available Commands And Usage :
 
 #### Command : `/rain`
-Example : `/rain amount currency`
 ##### Alternative : `/flush` , `/spread` , `/incinerate`
+Example : `/rain amount currency` <br><br>
 
 
 #### Command : `/tip`
-Example : `/tip amount currency` ( reply this to any other users message whom you want to send your balance)
 ##### Alternative : `/send` , `/transfer`
+Example : `/tip amount currency` ( reply this to any other users message whom you want to send your balance) <br><br>
 
 
 #### Command : `/bal`
-`/bal`
 ##### Alternative : `/balance` , `/acc` , `/account`
+Example : `/bal`
 
 #### All these commands are only to be used in groups / supergroups
-
+<br><br><br>
 ## [+] Installation
 
 1. `git clone https://github.com/Tulasinathreddy/Multi-TipBot.git`
