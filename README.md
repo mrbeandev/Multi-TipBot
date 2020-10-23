@@ -1,6 +1,6 @@
 # Multi-TipBot
 
-<img src="https://raw.githubusercontent.com/Tulasinathreddy/Multi-TipBot/main/logo.png?token=AIIFDDRU3NX5I6MUSKNXJB27SKUEI"> <br>
+<img src="https://cryptoearn.work/logo.png"> <br>
 
 ## About :
 
