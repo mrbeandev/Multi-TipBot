@@ -37,7 +37,7 @@ Example : `/bal`
 
 ## 🚫 The bot must be the admin of the group and give it all the permissions!!
 
-### 🤖 Demo Bot : [@group_tip_bot](https://t.me/group_tip_bot)
+### 🤖 Demo Bot : [@group_tip_bot](https://t.me/group_tip_bot) (❌ Offline)
 ### 👨‍💻 Credit : [@mrbeandev](https://t.me/mrbeandev)
 
 ## Donate :
