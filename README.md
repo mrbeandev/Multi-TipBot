@@ -1,6 +1,6 @@
 # Multi-TipBot
 
-<img src="https://cryptoearn.work/logo.png"> <br>
+<img src="https://mrbean.dev/logo.png"> <br>
 
 ## About :
 
